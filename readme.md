@@ -29,11 +29,11 @@ Then do commands for create table
 
 
 ## About me
-Hello, my name is Igor Veselov. I am Senior Full Stack Web Developer. Main specialization - Ecommerce websites. On this time developed CMS [vvShop](http://veselov.sumy.ua/vvshop.html) and other e-commerce projects turnkey. Opened for interesting offers.
+Hello, my name is Igor Veselov. I am Senior Full Stack Web Developer. Main specialization - Ecommerce websites. On this time developed CMS [vvShop](https://vvshop.xfor.top) and other e-commerce projects turnkey. Opened for interesting offers.
 
 ## Contacts
 - SKYPE: [utz0r2](skype:utz0r2)
-- EMAIL: [igor@veselov.sumy.ua](mailto:igor@veselov.sumy.ua)
-- WWW: http://veselov.sumy.ua/cv.html
+- EMAIL: [dev@xfor.top](mailto:dev@xfor.top)
+- WWW: https://xfor.top
 - LinkedIn: https://www.linkedin.com/in/igor-veselov/
 - github: https://github.com/utz0r2
